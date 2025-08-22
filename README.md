@@ -68,7 +68,7 @@ I am **Laren Jay Acob** a student and passionate about Full Stack Development
 ###
 
 ##
- ✨*"As long as I live, there are infinite chances!"*
+ ✨**As long as I live, there are infinite chances!**
 
  
 
