@@ -25,6 +25,10 @@ I am **Laren Jay Acob** a student and passionate about Full Stack Development
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
 
+- **Languages**: JavaScript, Python, C#
+- **Frameworks/Tools**: React, Tailwind, Node.js, Express.js, Git, Github
+- **Other**: Web Development Basics
+
 
 
 
