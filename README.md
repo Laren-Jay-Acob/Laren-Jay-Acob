@@ -50,8 +50,11 @@ I am **Laren Jay Acob** a student and passionate about Full Stack Development
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Laren-Jay-Acob.Laren-Jay-Acob&"  />
+</div>
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🔥 My Stats
 
 ###
 
@@ -61,9 +64,14 @@ I am **Laren Jay Acob** a student and passionate about Full Stack Development
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Laren-Jay-Acob.Laren-Jay-Acob&"  />
-</div>
+##
+ ✨*Just Do It*
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laren-Jay-Acob/Laren-Jay-Acob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laren-Jay-Acob/Laren-Jay-Acob/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Laren-Jay-Acob/Laren-Jay-Acob/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
