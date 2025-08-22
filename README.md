@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Laren-Jay-Acob/Laren-Jay-Acob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there
 
-Here are some ideas to get you started:
+I am **Laren Jay Acob** a student and passionate about Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 BSIT Student at *Laguna State Polytechnic University, Sta. Cruz Campus*
+- 🌱 Currently learning Node.js, Express.js, React, Tailwind CSS.
+- 🎯 Goals: ASP.NET Core Full Stack Developer, Build a Start-up Project.
+- ✨ Interested in *Game Development*, *Web Development*, *AI/ML*.
+- 💻 All of my project is available [here](https://acoblaren-portfolio-v1.vercel.app/)
+
+
+
+
+
+
+
