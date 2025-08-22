@@ -3,7 +3,7 @@
 
 I am **Laren Jay Acob** a student and passionate about Full Stack Development
 
-- 📚 BSIT Student at *Laguna State Polytechnic University, Sta. Cruz Campus*
+- 📚 BSIT Student at *Laguna State Polytechnic University - Sta. Cruz Campus*
 - 🌱 Currently learning Node.js, Express.js, React, Tailwind CSS.
 - 🎯 Goals: ASP.NET Core Full Stack Developer, Build a Start-up Project.
 - ✨ Interested in *Game Development*, *Web Development*, *AI/ML*.
@@ -29,7 +29,7 @@ I am **Laren Jay Acob** a student and passionate about Full Stack Development
 - **Languages**: JavaScript, Python, C#
 - **Frameworks/Tools**: React, Tailwind, Node.js, Express.js, Vercel, Git, Github
 - **Tech-Stack**: currently learning *PERN*
-- **Past Projects**: Inventory System, Educational Game using Unity Engine
+- **Past Projects**: [Inventory System](https://github.com/ZieksQ/ITEC_FinalProject), [Educational Game using Unity Engine](https://github.com/ZieksQ/Tech-N-Fact)
 - **Other**: Web Development Basics
 
 ## 📌 Current Projects
@@ -60,7 +60,7 @@ I am **Laren Jay Acob** a student and passionate about Full Stack Development
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Laren-Jay-Acob&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ZieksQ&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
