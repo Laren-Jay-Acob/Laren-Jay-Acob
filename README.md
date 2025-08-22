@@ -51,7 +51,21 @@ I am **Laren Jay Acob** a student and passionate about Full Stack Development
   </a>
 </div>
 
+<h3 align="left">🔥   My Stats :</h3>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Laren-Jay-Acob&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Laren-Jay-Acob.Laren-Jay-Acob&"  />
+</div>
+
+###
 
 
 
