@@ -28,7 +28,8 @@ I am **Laren Jay Acob** a student and passionate about Full Stack Development
 
 - **Languages**: JavaScript, Python, C#
 - **Frameworks/Tools**: React, Tailwind, Node.js, Express.js, Vercel, Git, Github
-- **Tech-Stack**: currently learing *PERN*
+- **Tech-Stack**: currently learning *PERN*
+- **Past Projects**: Inventory System, Educational Game using Unity Engine
 - **Other**: Web Development Basics
 
 ## 📌 Current Projects
